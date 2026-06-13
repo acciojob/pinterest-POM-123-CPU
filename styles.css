@@ -2,7 +2,7 @@
 .hero{
 	display:flex;
 	justify-content: left;
-	align-items:centre;
+	align-items: space-between;
 	
 }
 img{
@@ -22,7 +22,7 @@ p{
 	text-align: center;
 }
 .btn{
-	padding:0px;
+	padding:10px;
 	background-color: red ;
 		color: white;
 	border-radius: 25px;
